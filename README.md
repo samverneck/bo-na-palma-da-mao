@@ -10,6 +10,10 @@ Ionic é um framework que visa a criação de aplicações híbridas para dispos
 Ele nada mais é do que uma pilha de componentes e outros frameworks como angularJS e ui-router.
 
 ______________________________
+## [Cordova](https://cordova.apache.org/)
+O Apache Cordova é uma plataforma de desenvolvimento móvel com APIs que permitem que o desenvolvedor acesse funções nativas do dispositivo, como a câmera ou o acelerômetro.
+
+______________________________
 ## [Sass](http://sass-lang.com/)
 
 SASS é uma poderosa extensão da linguagem CSS que permite uma escrita profissional e completa das folhas de estilo de forma muito 
