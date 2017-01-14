@@ -14,6 +14,10 @@ ______________________________
 O Apache Cordova é uma plataforma de desenvolvimento móvel com APIs que permitem que o desenvolvedor acesse funções nativas do dispositivo, como a câmera ou o acelerômetro.
 
 ______________________________
+## [ngCordova](http://ngcordova.com)
+O objetivo do ngCordova é empacotar os plugins do cordova para dentro de serviços angular, facilitando assim a utilização desses plugins dentro de um projeto ionic. 
+
+______________________________
 ## [Sass](http://sass-lang.com/)
 
 SASS é uma poderosa extensão da linguagem CSS que permite uma escrita profissional e completa das folhas de estilo de forma muito 
