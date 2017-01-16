@@ -34,4 +34,21 @@ O automatizador de tarefas de build da aplicação.
 
 ______________________________
 
-Use o **ionic serve** para rodar o app
+## Como usar?
+
+1 - Dê um Fork no projeto
+
+2 - Clone o projeto para a sua maquina 
+
+> git clone https://github.com/samverneck/bo-na-palma-da-mao.git
+
+3 - Abra o projeto via linha de comando usando o seu terminal 
+
+> cd bo-na-palma-da-mao
+
+> cd geolocation
+
+4 -  Com o Ionic já instalado dê o seguinte comando 
+
+> ionic serve 
+
