@@ -31,3 +31,7 @@ colocar tudo num grande e pesado bundle.
 ______________________________
 ## [Gulp](http://gulpjs.com)
 O automatizador de tarefas de build da aplicação.
+
+______________________________
+
+Use o **ionic serve** para rodar o app
